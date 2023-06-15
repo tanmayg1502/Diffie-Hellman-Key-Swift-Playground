@@ -1,7 +1,7 @@
 # Diffie-Hellman-Key-Swift-Playground
 WWDC 2023 Swift Student Challenge Submission(Accepted)
 
-WWDC 23 Swift Student Challenge! This README file will provide an overview of my project, the Diffie-Hellman Key Exchange Crash Course app, and guide users on how to use and contribute to it effectively.
+This README file will provide an overview of my project, the Diffie-Hellman Key Exchange Crash Course app, and guide users on how to use and contribute to it effectively.
 
 # Overview
 The Diffie-Hellman Key Exchange Crash Course is a Swift-based iOS app built with SwiftUI. Its primary goal is to educate users about the Diffie-Hellman Key Exchange algorithm, a fundamental concept in modern cryptography. The app offers a comprehensive crash course that covers the basics of the algorithm, allows users to input their values for encryption calculations, and concludes with a quiz to test their knowledge.
