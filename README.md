@@ -1,5 +1,5 @@
 # Diffie-Hellman-Key-Swift-Playground
-WWDC 2023 Swift Student Challenge Submission(Accepted)
+This is the submission that got me selected for Apple's WWDC 2023 Swift Student Challenge. 
 
 This README file will provide an overview of my project, the Diffie-Hellman Key Exchange Crash Course app, and guide users on how to use and contribute to it effectively.
 
