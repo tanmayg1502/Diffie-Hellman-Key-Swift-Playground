@@ -14,15 +14,18 @@ The app incorporates the following key features:
 <img width="620" alt="1" src="https://github.com/tanmayg1502/Diffie-Hellman-Key-Swift-Playground/assets/71991053/835965c8-85f8-42f0-a6ae-3f6403653a9f">
 
 
+
 2) Interactive Input: Users can input their own values to calculate the various components required for encryption using the Diffie-Hellman Key Exchange algorithm. This interactive feature helps users understand how the algorithm works in practice.
 
 <img width="620" alt="2" src="https://github.com/tanmayg1502/Diffie-Hellman-Key-Swift-Playground/assets/71991053/5c684cc7-9178-4d33-8f78-1032fe2b0489">
+
 
 3) Encryption Calculation: The app performs real-time calculations based on user input, enabling them to visualize the encryption process and comprehend the intermediate steps involved.
 
 <img width="620" alt="3" src="https://github.com/tanmayg1502/Diffie-Hellman-Key-Swift-Playground/assets/71991053/9e26ef9a-6b49-430d-be27-2f6ebab6467f">
 
 <img width="620" alt="4" src="https://github.com/tanmayg1502/Diffie-Hellman-Key-Swift-Playground/assets/71991053/c837fb4d-b080-4901-8905-d82ed31ea677">
+
 
 4) Quiz: At the end of the crash course, users can test their knowledge with an interactive quiz. The quiz challenges users to recall the information learned during the crash course and provides immediate feedback on their performance.
 
